@@ -1,6 +1,6 @@
 # Student Exam Score Predictor
 
-An end-to-end Machine Learning project developed as part of the Python with Data Science Internship. This project implements a **Multiple Linear Regression** pipeline to analyze behavioral habits and predict a student's final academic performance index.
+An end-to-end Simple Machine Learning project developed using python. This project implements a **Multiple Linear Regression** pipeline to analyze behavioral habits and predict a student's final academic performance index.
 
 ---
 
